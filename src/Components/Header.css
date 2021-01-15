@@ -1,0 +1,8 @@
+.headerFull{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    border-bottom: rgb(44, 185, 31) 4px solid;
+
+}

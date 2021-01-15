@@ -1,0 +1,19 @@
+.button{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 60px;
+    
+}
+
+.button>label{
+    margin-right: 20px;
+    
+}
+.button>input{
+    margin-right: 20px;
+}
+.button>button{
+    background-color: chartreuse;
+
+}

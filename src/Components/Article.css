@@ -1,0 +1,22 @@
+.imgFull{
+    display: flex;
+
+
+}
+
+#imgTartine{
+    margin:100px
+}
+#imgTartine>img{
+    width: 400px;
+    height: 400px;
+
+}
+
+.text{
+    margin-top: 200px;
+}
+
+.text>h1{
+    color: yellowgreen;
+}
